@@ -1,0 +1,3 @@
+---
+# vars file for elb
+lb: ec2elb
